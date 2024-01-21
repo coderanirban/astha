@@ -1,0 +1,14 @@
+/* CSS for screens larger than 768px */
+@media (min-width: 768px) {
+    /* Styles for screens larger than 768px */
+    body {
+      font-size: 18px;
+    }
+  
+    .container {
+      max-width: 960px;
+      margin: 0 auto;
+    }
+  }
+ 
+  

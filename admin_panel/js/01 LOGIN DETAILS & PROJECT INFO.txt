@@ -1,0 +1,15 @@
+**Your Developer***
+
+**Database Name: ecom_store**
+
+**Developed by Madhusudan Kushali**
+
+**Recommended PHP Version 5.6 and Newer**
+
+
+**Admin Panel: /admin_area **
+
+**Admin Login Details**
+
+Username: madhu@gmail.com
+Password: madhu@123
